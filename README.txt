@@ -5,7 +5,7 @@ Intro
 -----
 
 This is a project made as part of a Codecademy course, the "Mixed Messages" excercise.
-It is to be sort of like a virtual magic eight ball -- a orb made of pure ether that summons messages from the swirling mists of cyberspace.
+It is to be sort of like a virtual magic eight ball -- an orb made of pure ether that summons messages from the swirling mists of cyberspace.
 
 Requirements
 ------------
