@@ -31,10 +31,11 @@ Git Bash was used to create a Git repo for the project, and to create this file.
 Technologies
 ------------
 
-Javascript
-Node.js
-Git
-Git Bash
++Javascript
++Node.js
++Git
++Git Bash
++Github
 
 Developed in Atom
 
