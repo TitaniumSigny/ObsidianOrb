@@ -21,7 +21,9 @@ _Build a message generator program using JavaScript_
 Satisfied by coding in JS
 
 _Use Git version control_
+
 _Use command line_
+
 _Develop locally on your computer_
 
 Git Bash was used to create a Git repo for the project, and to create this file.
@@ -34,7 +36,7 @@ Node.js
 Git
 Git Bash
 
-developed in Atom
+Developed in Atom
 
 
 
